@@ -17,7 +17,3 @@
 <a href="https://www.youtube.com/c/sai prakash reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sai prakash reddy" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiprakashreddy14&show_icons=true&locale=en&layout=compact" alt="saiprakashreddy14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprakashreddy14&show_icons=true&locale=en" alt="saiprakashreddy14" /></p>
